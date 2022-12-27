@@ -30,7 +30,7 @@ public class Cadastro {
 		System.out.println("Nome do Aluno: " + getNome());
 		System.out.println("O número da matrícula: " + getNumMatricula());
 		calculoMedia(3);
-		calculoFrequencia(180); //No mês a frequencia minima é de 50 aulas presentes
+		calculoFrequencia(180); //No semestre a frequencia minima é de 50 aulas presentes
 		verificarSituaçao();
 	}
 	
